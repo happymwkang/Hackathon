@@ -25,5 +25,5 @@
   * 신한카드 http://10.3.17.61:8081 
   * 신한금투 http://10.3.17.61:8082 
   * 신한생명 http://10.3.17.61:8080 
-  예시) 신한은행 거래내역 조회 API http://10.3.17.61:8080/v1/search/transaction/history
+  * 예시) 신한은행 거래내역 조회 API http://10.3.17.61:8080/v1/search/transaction/history
   
