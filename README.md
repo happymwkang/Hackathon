@@ -1,5 +1,5 @@
 
-## Shinhan Hackathon 사전 교육
+## Shinhan Hackathon 사전 안내
 
 ---
 
