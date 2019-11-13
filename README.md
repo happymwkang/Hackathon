@@ -1,5 +1,5 @@
 
-## Shinhan Hackathon 사전 안내
+### Shinhan Hackathon 사전 안내
 
 ---
 
@@ -31,6 +31,8 @@
 - 위에 열거된 주소는 사설IP로 해커톤 장소에서 MAC address가 등록된 wifi에 붙은 사용자의 PC 또는 LAN선을 통한 물리적인 연결이 된 사용자의 PC만 접속 가능하며 그 외 장소에서는 접속이 불가능 합니다.(신한 L 타워 22층에서도 접속 불가)
 
 - 모바일이나 태블릿에서는 해커톤 장소인 11층에서 wifi접속이 불가능 하므로 full mobile native code로 작성한 App.은 API call이 불가능 합니다. 즉, 모바일 App이더라도 API 통신은 서버를 거쳐서 하도록 개발하셔야 합니다.(CORS는 예외적용됨)
+
+---
 
 ### 3. 해커톤 API 호출 개발 시 주의사항
 
