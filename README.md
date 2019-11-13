@@ -36,5 +36,10 @@
 
 - 본 해커톤에 사용되는 API는 JSON의 포맷을 따르는 요청값을 필요로 하며(Raw 형태) form방식은 지원하지 않습니다.
   아래 POSTMAN 호출 샘플을 참고 부탁 드립니다.
+  ![image](https://user-images.githubusercontent.com/46205182/68735351-b85c5380-0620-11ea-975e-10d13973fd58.png)
 
 - 대부분의 API는 POST 방식이나 일부 API 는 GET방식으로 제공되므로 명세서 내 명시된 HTTP method를 확인 부탁 드립니다.
+
+- 응답으로 전달되는 Data는 모두 Dummy Data로 요청 파라미터가 변경되었다고 하여 다른 Data가 응답으로 전달되지 않습니다. 따라서, 필요에 따라 응답값은 임의로 변경하여 쓰셔도 무방합니다.
+
+- 별도의 swagger 파일은 제공되지 않습니다.
